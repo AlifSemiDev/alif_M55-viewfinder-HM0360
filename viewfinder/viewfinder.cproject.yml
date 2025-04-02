@@ -91,7 +91,8 @@ project:
     - component: AlifSemiconductor::Device:SE runtime Services:core&Source
     - component: AlifSemiconductor::Device:SE runtime Services:Initialization Helper&Source
 
-    - component: AlifSemiconductor::BSP:External peripherals:CAMERA Sensor MT9M114
+    - component: AlifSemiconductor::BSP:External peripherals:CAMERA Sensor HM0360
+    # - component: AlifSemiconductor::BSP:External peripherals:CAMERA Sensor MT9M114
     #- component: AlifSemiconductor::BSP:External peripherals:CAMERA Sensor ARX3A0
     # - component: AlifSemiconductor::BSP:External peripherals:CAMERA Sensor AR0144
     # - component: AlifSemiconductor::BSP:External peripherals:Ethernet PHY

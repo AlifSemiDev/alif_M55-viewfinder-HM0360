@@ -28,7 +28,7 @@
 //     <4=> Alif Development Kit (Generation 2 Silicon RevBA / Board Rev A, B, C)
 //     <5=> Alif AI/ML Application Kit (Generation 2 Silicon Rev B / Board Rev A)
 #ifndef BOARD_ALIF_DEVKIT_VARIANT
-#define BOARD_ALIF_DEVKIT_VARIANT       4
+#define BOARD_ALIF_DEVKIT_VARIANT       5
 #endif
 
 #if (BOARD_ALIF_DEVKIT_VARIANT == 0)
